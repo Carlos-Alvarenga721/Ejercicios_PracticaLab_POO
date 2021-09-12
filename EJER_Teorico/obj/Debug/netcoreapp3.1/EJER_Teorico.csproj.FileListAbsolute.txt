@@ -1,0 +1,15 @@
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.exe
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.deps.json
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.runtimeconfig.json
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.runtimeconfig.dev.json
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.dll
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\bin\Debug\netcoreapp3.1\EJER_Teorico.pdb
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.csprojAssemblyReference.cache
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.Form1.resources
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.csproj.GenerateResource.cache
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.AssemblyInfoInputs.cache
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.AssemblyInfo.cs
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.csproj.CoreCompileInputs.cache
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.dll
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.pdb
+C:\Users\ialva\source\repos\EJER_Teorico\EJER_Teorico\obj\Debug\netcoreapp3.1\EJER_Teorico.genruntimeconfig.cache
